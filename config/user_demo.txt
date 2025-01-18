@@ -1,4 +1,4 @@
-央视频道#genre#
+央视频道,,#genre#
 CCTV1
 CCTV2
 CCTV3
@@ -25,7 +25,7 @@ CGTN俄语
 CGTN法语
 CGTN西语
 CGTN阿语
-卫视频道#genre#
+卫视频道,,#genre#
 湖南卫视
 东方卫视
 江苏卫视
@@ -61,7 +61,7 @@ CGTN阿语
 西藏卫视
 三沙卫视
 康巴卫视
-数字频道#genre#
+数字频道,,#genre#
 动漫秀场
 乐游
 中国天气
@@ -71,10 +71,10 @@ CGTN阿语
 金色学堂
 山东教育
 纯享4K
-港澳台#genre#
+港澳台,#genre#
 凤凰中文
 凤凰香港
-地方#genre#
+地方,#genre#
 CETV1
 CETV2
 CETV4
@@ -82,13 +82,13 @@ CETV4
 快乐垂钓
 先锋乒羽
 茶频道
-上海#genre#
+上海,#genre#
 纪实人文
 欢笑剧场
 生活时尚
-北京#genre#
+北京,#genre#
 冬奥纪实
-福建#genre#
+福建,#genre#
 福建综合
 东南卫视
 福建公共
