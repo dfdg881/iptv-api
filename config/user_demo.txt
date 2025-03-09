@@ -19,6 +19,10 @@ CCTV17
 CCTV5+
 CCTV16 4K
 CCTV4K
+CETV1
+CETV2
+CETV3
+CETV4
 CGTN英语
 CGTN纪录
 CGTN俄语
@@ -72,9 +76,6 @@ CGTN阿语
 山东教育
 纯享4K
 地方,#genre#
-CETV1
-CETV2
-CETV4
 金鹰纪实
 快乐垂钓
 先锋乒羽
@@ -127,6 +128,7 @@ CETV4
 龙岩公共
 龙岩综合
 重温经典,#genre#
+重温经典
 港澳台,#genre#
 翡翠台
 明珠台
