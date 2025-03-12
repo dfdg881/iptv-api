@@ -55,7 +55,7 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 吉林卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227099/1.m3u8?servicetype=1
 山西卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227258/1.m3u8?servicetype=1
 甘肃卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227262/1.m3u8?servicetype=1
-内��古卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227244/1.m3u8?servicetype=1
+内蒙古卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227244/1.m3u8?servicetype=1
 新疆卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227248/1.m3u8?servicetype=1
 兵团卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227168/1.m3u8?servicetype=1
 西藏卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227217/1.m3u8?servicetype=1
@@ -85,3 +85,5 @@ CETV4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227192/1.m3u8?servicet
 海峡卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227198/index.m3u8?servicetype=1
 福建教育,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227202/index.m3u8?servicetype=1
 厦门卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226781/index.m3u8?servicetype=1
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
