@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250510064548 +0800">
+<tv date="20250510102800 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10967,6 +10967,30 @@
 	</programme>
 	<programme channel="纯享4K" start="20250510113700 +0800" stop="20250510121900 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 秦岭深处 生态家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510121900 +0800" stop="20250510130100 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 武陵山中 秘境探奇</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510130100 +0800" stop="20250510130600 +0800">
+		<title lang="zh">美丽中国自然4K 贵州黔中系列 大山的馈赠</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510131200 +0800" stop="20250510140100 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510140100 +0800" stop="20250510145000 +0800">
+		<title lang="zh">我们的征途4K 第1集</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510145000 +0800" stop="20250510153000 +0800">
+		<title lang="zh">探索b7发现4K 家乡至味2024（2）</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510153000 +0800" stop="20250510154500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 对剑图</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510154500 +0800" stop="20250510155500 +0800">
+		<title lang="zh">秘境之眼4K 黔灵山 都市中的“猕猴王国”</title>
+	</programme>
+	<programme channel="纯享4K" start="20250510155500 +0800" stop="20250510162300 +0800">
+		<title lang="zh">记住乡愁4K第十季 阿寺——果香满塬绿山川</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
