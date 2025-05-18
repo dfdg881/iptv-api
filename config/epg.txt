@@ -3,5 +3,4 @@
 
 https://iptv.crestekk.cn/epgphp/t.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
-https://assets.livednow.com/epg.xml
 https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
