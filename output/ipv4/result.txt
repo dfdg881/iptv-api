@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-27 06:16:14,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-05-27 18:19:19,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
@@ -10,8 +10,8 @@ CCTV-2,http://119.32.12.17:2901/udp/224.1.100.94:11111
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?servicetype=1
 CCTV-4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225802/1.m3u8?servicetype=1
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
+CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?servicetype=1
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225939/1.m3u8?servicetype=1
@@ -135,7 +135,6 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 
 北京,#genre#
 纪实科教,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225944/1.m3u8?servicetype=1
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1748206753&sign=3a900046a15c1901765c069a702199fd
 
 福建,#genre#
 福建文体,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227188/index.m3u8?servicetype=1
