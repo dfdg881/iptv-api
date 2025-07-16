@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dfdg881/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-16 18:21:27
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-17 06:20:43
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
@@ -33,8 +33,6 @@ http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225815/1.m3u8?servicetype=1
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225932/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225817/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://218.3.138.25:1111/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225933/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
@@ -163,6 +161,8 @@ http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227111/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227197/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -182,9 +182,9 @@ http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227059/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://drive.mxmy.net:8888/udp/239.3.1.136:8032
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://omnix.cn:4000/udp/225.1.8.45:8032
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227262/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -217,6 +217,8 @@ http://php.fjl626.cn/hebei.php?id=hbws
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227095/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227099/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -225,14 +227,14 @@ http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://drive.mxmy.net:8888/udp/239.3.1.240:8172
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://111.14.181.15:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227160/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227209/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://61.138.128.226:19901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227141/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -288,9 +290,9 @@ http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227168/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="数字频道",动漫秀场
 https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乐游.png" group-title="数字频道",乐游
@@ -317,6 +319,8 @@ rtsp://115.153.233.154/PLTV/88888888/224/3221225607/iptv7994.smil
 rtsp://115.153.230.145/PLTV/88888888/224/3221225607/iptv7994.smil
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="数字频道",法治天地
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221225607/iptv7994.smil
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="数字频道",东方财经
+http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="数字频道",东方财经
 rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="数字频道",东方财经
