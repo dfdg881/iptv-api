@@ -2,3 +2,4 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
 https://epg.v1.mk/fy.xml
+https://iptv.crestekk.cn/epgphp/t.xml
