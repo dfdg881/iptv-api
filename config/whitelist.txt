@@ -64,6 +64,9 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 康巴卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225856/1.m3u8?servicetype=1
 动漫秀场,https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna
 中国天气,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227210/1.m3u8?servicetype=1
+北京卫视4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8?servicetype=1
+深圳卫视4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8?servicetype=1
+广东卫视4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u8?servicetype=1
 纯享4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226825/1.m3u8?servicetype=1
 芒果TV,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226887/1.m3u8?servicetype=1
 CETV1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227067/1.m3u8?servicetype=1
