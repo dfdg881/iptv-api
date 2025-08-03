@@ -18,9 +18,9 @@ CCTV-13,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225817/1.m3u8?servic
 CCTV-14,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225933/1.m3u8?servicetype=1
 CCTV-15,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225818/1.m3u8?servicetype=1
 CCTV-16,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227125/1.m3u8?servicetype=1
+CCTV16-4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227162/1.m3u8?servicetype=1
 CCTV-17,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226986/1.m3u8?servicetype=1
 CCTV-5+,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225939/1.m3u8?servicetype=1
-CCTV-16 4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227162/1.m3u8?servicetype=1
 CCTV-4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8?servicetype=1
 CGTN英语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225822/1.m3u8?servicetype=1
 CGTN纪录,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225813/1.m3u8?servicetype=1
