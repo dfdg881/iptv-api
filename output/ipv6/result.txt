@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-04 03:40:01,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-08-04 06:24:13,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
@@ -20,7 +20,6 @@ CCTV-11,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225815/1.m3u8?servic
 CCTV-12,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225932/1.m3u8?servicetype=1
 CCTV-13,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225817/1.m3u8?servicetype=1
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225933/1.m3u8?servicetype=1
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -70,7 +69,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 贵州卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227201/1.m3u8?servicetype=1
 海南卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227216/1.m3u8?servicetype=1
 河北卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227063/1.m3u8?servicetype=1
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227095/1.m3u8?servicetype=1
 吉林卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227099/1.m3u8?servicetype=1
 江苏卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227160/1.m3u8?servicetype=1
@@ -128,11 +126,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 FZTV1,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 FZTV3,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 
 港澳台,#genre#
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -140,6 +136,6 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
