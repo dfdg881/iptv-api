@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250803140435 +0800">
+<tv date="20250803160631 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11693,6 +11693,18 @@
 	</programme>
 	<programme channel="纯享4K" start="20250803193100 +0800" stop="20250803201300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 大漠豪情中卫美</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803201300 +0800" stop="20250803205500 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 移民之城 生态之洲</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803210000 +0800" stop="20250803210500 +0800">
+		<title lang="zh">美丽中国自然4K 黄河中游系列 黄河龙门</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803210500 +0800" stop="20250803213500 +0800">
+		<title lang="zh">信仰的感召4K 壮乡英雄 韦拔群</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803213500 +0800" stop="20250803220500 +0800">
+		<title lang="zh">美丽中国说4K 成长中的陪伴</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
