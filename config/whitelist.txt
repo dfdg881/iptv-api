@@ -74,6 +74,8 @@ CETV2,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227206/1.m3u8?servicet
 CETV4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227192/1.m3u8?servicetype=1
 金鹰纪实,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226937/1.m3u8?servicetype=1
 快乐垂钓,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226940/1.m3u8?servicetype=1
+环球奇观,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227490/index.m3u8?servicetype=1
+生态环境,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227494/index.m3u8?servicetype=1
 先锋乒羽,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226851/1.m3u8?servicetype=1
 茶频道,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226859/1.m3u8?servicetype=1
 纪实科教,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225944/1.m3u8?servicetype=1
