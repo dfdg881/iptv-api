@@ -44,7 +44,6 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 江西卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227209/1.m3u8?servicetype=1
 辽宁卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227141/1.m3u8?servicetype=1
 重庆卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227240/1.m3u8?servicetype=1
-北京卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227514/1.m3u8?servicetype=1
 北京卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227246/1.m3u8?servicetype=1
 云南卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227181/1.m3u8?servicetype=1
 河南卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227095/1.m3u8?servicetype=1
