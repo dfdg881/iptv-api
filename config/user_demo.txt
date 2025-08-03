@@ -16,7 +16,7 @@ CCTV-13
 CCTV-14
 CCTV-15
 CCTV-16
-CCTV-16-4K
+CCTV16-4K
 CCTV-17
 CCTV-4K
 CCTV-8K
@@ -44,6 +44,11 @@ CGTN阿语
 电视指南
 世界地理
 兵器科技
+
+4K超高清卫视频道,#genre#
+北京卫视4K
+深圳卫视4K
+广东卫视4K
 
 卫视频道,#genre#
 广东卫视
