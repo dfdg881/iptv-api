@@ -869,12 +869,12 @@
         },
         "selenium": {
             "hashes": [
-                "sha256:0f6d147595f08c6d4bad87b34c39dcacb4650aedc78e3956c8eac1bb752a3854",
-                "sha256:ea208f7db9e3b26e58c4a817ea9dd29454576d6ea55937d754df079ad588e1ad"
+                "sha256:83937a538afb40ef01e384c1405c0863fa184c26c759d34a1ebbe7b925d3481c",
+                "sha256:90bb6c6091fa55805785cf1660fa1e2176220475ccdb466190f654ef8eef6114"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==4.34.2"
+            "version": "==4.35.0"
         },
         "six": {
             "hashes": [
