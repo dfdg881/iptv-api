@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-27 18:23:20,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-08-28 06:22:49,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
@@ -23,6 +23,7 @@ CCTV-14,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225933/1.m3u8?servic
 CCTV-15,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225818/1.m3u8?servicetype=1
 CCTV-16,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227125/1.m3u8?servicetype=1
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
+CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756084903216
 CCTV16-4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227162/1.m3u8?servicetype=1
 CCTV-17,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226986/1.m3u8?servicetype=1
 CCTV-4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227510/index.m3u8?servicetype=1
@@ -123,6 +124,7 @@ FZTV3,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 
 港澳台,#genre#
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
