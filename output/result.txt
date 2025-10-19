@@ -1,15 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-19 06:20:19,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-10-19 18:19:42,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 CCTV-2,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225923/1.m3u8?servicetype=1
 CCTV-3,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227256/index.m3u8?servicetype=1
-CCTV-3,http://124.128.73.58:9901/tsfile/live/0003_1.m3u8
 CCTV-4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225802/1.m3u8?servicetype=1
 CCTV-5,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227283/index.m3u8?servicetype=1
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5+,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225939/1.m3u8?servicetype=1
 CCTV-6,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227260/index.m3u8?servicetype=1
 CCTV-7,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8?servicetype=1
@@ -165,15 +163,6 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 环球奇观,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227490/index.m3u8?servicetype=1
 生态环境,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227494/index.m3u8?servicetype=1
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv
-山东教育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227291/10000100000000060000000001945822_0.smil
-山东教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.254.81/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.247.80/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.230.145/PLTV/88888888/224/3221226980/85722602.smil
-山东教育,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226980/85722602.smil
 纯享4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226825/1.m3u8?servicetype=1
 
 地方,#genre#
