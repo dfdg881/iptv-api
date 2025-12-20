@@ -2,3 +2,4 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 https://tv.mxdyeah.top/epgphp/t.xml
+https://baoer.org.cn/e.xml
