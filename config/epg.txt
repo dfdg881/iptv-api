@@ -2,6 +2,5 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
-https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/epg/112114.xml
 https://liliu.serv00.net/epg/download.php?type=xml
 https://tv.mxdyeah.top/epgphp/t.xml
