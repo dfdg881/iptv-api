@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-20 18:58:03,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-12-20 19:12:26,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
@@ -33,12 +33,12 @@ CGTN西语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227238/1.m3u8?ser
 CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?servicetype=1
 
 4K超高清卫视频道,#genre#
-北京卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227514/index.m3u8?servicetype=1
 北京卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
-深圳卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227489/index.m3u8?servicetype=1
+北京卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227514/index.m3u8?servicetype=1
 深圳卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227485/141320617.smil
-广东卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227391/index.m3u8?servicetype=1
+深圳卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227489/index.m3u8?servicetype=1
 广东卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227500/141320607.smil
+广东卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227391/index.m3u8?servicetype=1
 四川卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227407/147396849.smil
 湖南卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227530/147396820.smil
 山东卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227516/147396708.smil
