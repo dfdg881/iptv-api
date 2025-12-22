@@ -4,3 +4,4 @@
 https://baoer.org.cn/e.xml
 https://raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.xml
 https://e.erw.cc/e.xml
+https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/epg/epg.xml
