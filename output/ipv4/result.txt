@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-25 18:23:43,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
+2025-12-26 06:22:30,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 
 央视频道,#genre#
 CCTV-1,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 CCTV-2,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225923/1.m3u8?servicetype=1
 CCTV-3,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227256/index.m3u8?servicetype=1
-CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225802/1.m3u8?servicetype=1
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227283/index.m3u8?servicetype=1
@@ -40,10 +39,10 @@ CETV4,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227192/1.m3u8?servicet
 CGTN英语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225822/1.m3u8?servicetype=1
 CGTN纪录,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225813/1.m3u8?servicetype=1
 CGTN俄语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227103/1.m3u8?servicetype=1
-CGTN俄语,http://yp.qqqtv.top/1/api.php?id=CGTN%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%AD&auth=666858
-CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN俄语,http://yp.qqqtv.top/1/api.php?id=CGTN%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%AD&auth=666858
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN法语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227220/1.m3u8?servicetype=1
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN西语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227238/1.m3u8?servicetype=1
@@ -66,16 +65,16 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
 4K超高清卫视频道,#genre#
-北京卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227514/index.m3u8?servicetype=1
 北京卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
+北京卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227514/index.m3u8?servicetype=1
 北京卫视4K,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视4K,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 深圳卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227489/index.m3u8?servicetype=1
 深圳卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227485/141320617.smil
 深圳卫视4K,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视4K,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-广东卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227391/index.m3u8?servicetype=1
 广东卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227500/141320607.smil
+广东卫视4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227391/index.m3u8?servicetype=1
 广东卫视4K,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 四川卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227407/147396849.smil
 四川卫视4K,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
@@ -88,17 +87,17 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 浙江卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227505/147396573.smil
 浙江卫视4K,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 浙江卫视4K,http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&auth=666858
-浙江卫视4K,http://8.138.7.223/tv/zjws.m3u8
-浙江卫视4K,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视4K,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视4K,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视4K,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视4K,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 江苏卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227526/147396617.smil
 江苏卫视4K,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 东方卫视4K,rtsp://112.50.233.148/PLTV/88888888/224/3221227512/147396182.smil
-东方卫视4K,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视4K,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
+东方卫视4K,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 
 卫视频道,#genre#
 广东卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227164/1.m3u8?servicetype=1
@@ -130,9 +129,9 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227095/1.m3u8?servicetype=1
+河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 吉林卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227099/1.m3u8?servicetype=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227160/1.m3u8?servicetype=1
@@ -165,7 +164,6 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 康巴卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225856/1.m3u8?servicetype=1
 兵团卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227168/1.m3u8?servicetype=1
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 
@@ -173,11 +171,10 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 动漫秀场,https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna
 中国天气,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227210/1.m3u8?servicetype=1
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-都市剧场,http://112.254.55.106:22222/rtp/239.253.254.98:8000
 都市剧场,http://171.83.103.119:9999/rtp/239.69.2.4:11178
+都市剧场,http://112.254.55.106:22222/rtp/239.253.254.98:8000
 法治天地,http://112.254.55.106:22222/rtp/239.253.254.96:8000
 法治天地,http://171.83.103.119:9999/rtp/239.69.2.10:11214
-法治天地,http://116.237.37.244:8888/rtp/239.45.1.46:5140
 环球奇观,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227490/index.m3u8?servicetype=1
 生态环境,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227494/index.m3u8?servicetype=1
 纯享4K,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226825/1.m3u8?servicetype=1
@@ -192,6 +189,9 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 茶频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
 
 上海,#genre#
+欢笑剧场,http://yp.qqqtv.top/1/api.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BAHD&auth=666858
+欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 欢笑剧场,http://116.237.37.244:8888/rtp/239.45.3.196:5140
 生活时尚,rtsp://115.153.245.70/PLTV/88888888/224/3221225603/iptv7992.smil
 生活时尚,rtsp://115.153.254.81/PLTV/88888888/224/3221225603/iptv7992.smil
@@ -219,7 +219,6 @@ CGTN阿语,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227224/1.m3u8?ser
 海峡卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227198/index.m3u8?servicetype=1
 海峡卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&auth=666858
 厦门卫视,http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226781/index.m3u8?servicetype=1
-厦门卫视,http://125.42.148.189:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 FZTV1,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 FZTV3,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
@@ -227,8 +226,8 @@ FZTV3,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 重温经典,#genre#
 
 港澳台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
