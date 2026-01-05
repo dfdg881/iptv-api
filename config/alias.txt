@@ -1,6 +1,6 @@
-# 这是频道名称的别名名单，用于获取接口时将多种名称映射为一个名称的结果，可以提升获取量与准确率
+# 这是频道名称的别名名单,用于获取接口时将多种名称映射为一个名称的结果,可以提升获取量与准确率
 # 格式：主名（对应demo.txt模板中的频道名称）,别名1,别名2,别名3
-# 支持使用正则表达式匹配别名，以re:开头的别名将被识别为正则表达式，例如CCTV-1,re:CCTV[-\s]*0?1(?!\d)
+# 支持使用正则表达式匹配别名,以re:开头的别名将被识别为正则表达式,例如CCTV-1,re:CCTV[-\s]*0?1(?!\d)
 # This is the alias list for channel names, used to map multiple names to a single name when fetching from the interface, improving the fetch volume and accuracy.
 # Format: Main name (corresponds to channel name in demo.txt template), alias1, alias2, alias3
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:CCTV[-\s]*0?1(?!\d)
@@ -57,10 +57,28 @@ CGTN俄语,CGTN俄罗斯语
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
 北京卫视,北京卫视4K,北京卫视4K超高清
+北京卫视4K,北京卫视4K超高清
+深圳卫视,深圳卫视4K,深圳卫视4K超高清
+深圳卫视4K,深圳卫视4K超高清,深圳卫视
+广东卫视,广东卫视4K,广东卫视4K超高清
+广东卫视4K,广东卫视4K超高清,广东卫视
+四川卫视,四川卫视4K,四川卫视4K超高清
+四川卫视4K,四川卫视4K超高清,四川卫视
+湖南卫视,湖南卫视4K,湖南卫视4K超高清
+湖南卫视4K,湖南卫视4K超高清,湖南卫视
+山东卫视,山东卫视4K,山东卫视4K超高清
+山东卫视4K,山东卫视4K超高清,山东卫视
+浙江卫视,浙江卫视4K,浙江卫视4K超高清
+浙江卫视4K,浙江卫视4K超高清,浙江卫视
+江苏卫视,江苏卫视4K,江苏卫视4K超高清
+江苏卫视4K,江苏卫视4K超高清.江苏卫视
+东方卫视,东方卫视4K,东方卫视4K超高清
+东方卫视4K,东方卫视4K超高清,东方卫视
 凤凰中文,凤凰卫视中文台
 凤凰香港,凤凰卫视香港台
 福建文体,福建体育
 福建经济,福建经视
+福建公共,福建乡村振兴
 FZTV1,FZTV-1,福州综合,福州1-新闻
 FZTV3,FZTV-3,福州生活,福州3-生活
 
