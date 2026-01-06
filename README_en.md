@@ -59,20 +59,20 @@ pipeline 🚀. Supports extensive customization; paste the resulting URL into yo
 
 ## Core Features
 
-| Feature                               | Status | Description                                                                                                                                        |
-|:--------------------------------------|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Custom Templates**                  |   ✅    | Generate personalized channels as you wish                                                                                                         |
-| **Channel Alias**                     |   ✅    | Improves channel result coverage and accuracy, supports regular expressions                                                                        |
-| **Multiple Source Types**             |   ✅    | Supports local sources, subscriptions                                                                                                              |
-| **RTMP streaming**                    |   ✅    | Supports HLS mode to improve compatibility and reduce buffering, enhancing playback on poor networks, and supports playback in browsers or players |
-| **Playback Interfaces**               |   ✅    | Supports acquisition and generation of playback interfaces                                                                                         |
-| **EPG (Electronic Program Guide)**    |   ✅    | Displays channel preview content                                                                                                                   |
-| **Channel Logo**                      |   ✅    | Supports custom channel logo library sources                                                                                                       |
-| **Interface Speed Test & Validation** |   ✅    | Measures latency, speed, resolution, and filters invalid interfaces                                                                                |
-| **Advanced Preferences**              |   ✅    | IPv4/IPv6, interface sorting priority, quantity configuration, blacklist/whitelist, region & ISP filtering                                         |
-| **Scheduled Tasks**                   |   ✅    | Automatically updates at 6:00 and 18:00 Beijing time daily by default; customizable schedule                                                       |
-| **Multiple Run Modes**                |   ✅    | Supports workflow, CLI, GUI software, Docker (amd64/arm64/arm v7)                                                                                  |
-| **More Features**                     |   ✨    | See [Configuration Parameters](#Config) section for details                                                                                        |
+| Feature                       | Support | Description                                                                               |
+|:------------------------------|:-------:|:------------------------------------------------------------------------------------------|
+| **Custom templates**          |    ✅    | Generate custom channel playlists                                                         |
+| **Channel aliases**           |    ✅    | Improve channel matching and accuracy, supports regular expressions                       |
+| **Multi-source aggregation**  |    ✅    | Local sources and subscription sources                                                    |
+| **Stream relay**              |    ✅    | Improve playback on weak networks, supports direct browser playback                       |
+| **Replay/VOD interfaces**     |    ✅    | Fetching and generating replay/VOD interfaces                                             |
+| **EPG**                       |    ✅    | Fetch and display channel program guides                                                  |
+| **Channel logos**             |    ✅    | Custom channel logo library sources                                                       |
+| **Speed test & validation**   |    ✅    | Obtain latency, bitrate, resolution; filter invalid interfaces; supports real-time output |
+| **Advanced preferences**      |    ✅    | Rate, resolution, blacklist/whitelist, location and ISP custom filters                    |
+| **Scheduled tasks**           |    ✅    | Scheduled or interval updates                                                             |
+| **Multi-platform deployment** |    ✅    | Workflows, CLI, GUI, Docker (amd64/arm64/arm v7)                                          |
+| **More features**             |    ✨    | See [Configuration](#Config) section for details                                          |
 
 ## Config
 
@@ -103,7 +103,6 @@ pipeline 🚀. Supports extensive customization; paste the resulting URL into yo
 | public_scheme          | Public network protocol. Optional values: `http`, `https`.                                                                                                                                                                                                                                                                                  | http              |
 | public_domain          | Public network Host address, used to generate access URLs in the result; uses local machine IP by default.                                                                                                                                                                                                                                  | 127.0.0.1         |
 | cdn_url                | CDN proxy acceleration address, used for accelerated access to subscription sources, channel icons and other resources.                                                                                                                                                                                                                     |                   |
-| open_driver            | Enable browser execution. If there are no updates, this mode can be enabled to try fetching data via a browser, but it consumes more resources.                                                                                                                                                                                             | False             |
 | open_local             | Enable local source function, will use the data in the template file and the local source file (`local.txt`).                                                                                                                                                                                                                               | True              |
 | open_subscribe         | Enable subscription source function.                                                                                                                                                                                                                                                                                                        | True              |
 | open_history           | Enable using historical update results (including interfaces from template and result files), merged into this update.                                                                                                                                                                                                                      | True              |

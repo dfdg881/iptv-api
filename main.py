@@ -73,6 +73,9 @@ class UpdateSource:
                     print(t("msg.subscribe_urls_whitelist_total").format(default_count=len(default_subscribe_urls),
                                                                          whitelist_count=len(whitelist_subscribe_urls),
                                                                          total=len(subscribe_urls)))
+                    if not subscribe_urls:
+                        print(t("msg.no_subscribe_urls").format(file=constants.subscribe_path))
+                        continue
                     task = asyncio.create_task(
                         task_func(subscribe_urls,
                                   names=channel_names,
@@ -144,21 +147,26 @@ class UpdateSource:
                         ipv6_support=self.ipv6_support
                     )
                     self.total = get_urls_len(test_data)
-                    print(t("msg.total_urls_need_test_speed").format(total=urls_total, speed_total=self.total))
-                    self.update_progress(
-                        t("msg.progress_speed_test").format(total=urls_total, speed_total=self.total),
-                        0,
-                    )
-                    self.start_time = time()
-                    self.pbar = tqdm(total=self.total, desc=t("pbar.speed_test"))
-                    test_result = await test_speed(
-                        test_data,
-                        ipv6=self.ipv6_support,
-                        callback=lambda: self.pbar_update(name=t("pbar.speed_test"), item_name=t("pbar.url")),
-                        on_task_complete=self.aggregator.add_item
-                    )
-                    cache_result = merge_objects(cache_result, test_result, match_key="url")
-                    self.pbar.close()
+                    if self.total <= 0:
+                        print(t("msg.total_urls_need_test_speed").format(total=urls_total, speed_total=self.total))
+                        self.aggregator.is_last = True
+                        await self.aggregator.flush_once(force=True)
+                    else:
+                        print(t("msg.total_urls_need_test_speed").format(total=urls_total, speed_total=self.total))
+                        self.update_progress(
+                            t("msg.progress_speed_test").format(total=urls_total, speed_total=self.total),
+                            0,
+                        )
+                        self.start_time = time()
+                        self.pbar = tqdm(total=self.total, desc=t("pbar.speed_test"))
+                        test_result = await test_speed(
+                            test_data,
+                            ipv6=self.ipv6_support,
+                            callback=lambda: self.pbar_update(name=t("pbar.speed_test"), item_name=t("pbar.url")),
+                            on_task_complete=self.aggregator.add_item
+                        )
+                        cache_result = merge_objects(cache_result, test_result, match_key="url")
+                        self.pbar.close()
                 else:
                     self.aggregator.is_last = True
                     await self.aggregator.flush_once(force=True)
@@ -171,8 +179,12 @@ class UpdateSource:
                             except EOFError:
                                 cache = {}
                             cache_result = merge_objects(cache, cache_result, match_key="url")
-                    with gzip.open(constants.cache_path, "wb") as file:
-                        pickle.dump(cache_result, file)
+                    cache_path = constants.cache_path
+                    cache_dir = os.path.dirname(cache_path)
+                    if cache_dir:
+                        os.makedirs(cache_dir, exist_ok=True)
+                        with gzip.open(constants.cache_path, "wb") as file:
+                            pickle.dump(cache_result, file)
                 print(t("msg.update_completed").format(time=format_interval(time() - main_start_time), service_tip=""))
             if self.run_ui:
                 open_service = config.open_service
