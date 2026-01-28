@@ -3,5 +3,5 @@
 https://liliu.serv00.net/epg/download.php?type=xml
 https://epg.136605.xyz/1day.xml
 https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
-
+https://raw.githubusercontent.com/dfdg881/myEPG/refs/heads/master/output/epg.xml
 
