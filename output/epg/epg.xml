@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260131000802 +0800">
+<tv date="20260131102738 +0800">
 	<channel id="江苏卫视4K">
 		<display-name lang="zh">江苏卫视4K</display-name>
 	</channel>
@@ -72498,66 +72498,6 @@
 	<programme channel="金鹰纪实" start="20260202000000 +0800" stop="20260202003800 +0800">
 		<title lang="zh">看世界</title>
 	</programme>
-	<channel id="FZTV3">
-		<display-name lang="zh">FZTV3</display-name>
-	</channel>
-	<programme channel="FZTV3" start="20260126002000 +0800" stop="20260126070000 +0800">
-		<title lang="zh">生活零距离(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126070000 +0800" stop="20260126084000 +0800">
-		<title lang="zh">生活剧场(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126084000 +0800" stop="20260126092000 +0800">
-		<title lang="zh">生活零距离(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126092000 +0800" stop="20260126101300 +0800">
-		<title lang="zh">攀讲(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126101300 +0800" stop="20260126110000 +0800">
-		<title lang="zh">闽都金秋(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126110000 +0800" stop="20260126125000 +0800">
-		<title lang="zh">生活剧场(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126125000 +0800" stop="20260126134000 +0800">
-		<title lang="zh">生活零距离(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126134000 +0800" stop="20260126144000 +0800">
-		<title lang="zh">攀讲(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126144000 +0800" stop="20260126153000 +0800">
-		<title lang="zh">闽都金秋(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126153000 +0800" stop="20260126172000 +0800">
-		<title lang="zh">生活剧场(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126172000 +0800" stop="20260126183000 +0800">
-		<title lang="zh">攀讲(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126183000 +0800" stop="20260126191000 +0800">
-		<title lang="zh">闽都金秋</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126191000 +0800" stop="20260126200500 +0800">
-		<title lang="zh">攀讲</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126200500 +0800" stop="20260126203000 +0800">
-		<title lang="zh">梅卿快车道</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126203000 +0800" stop="20260126212000 +0800">
-		<title lang="zh">生活剧场</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126212000 +0800" stop="20260126220500 +0800">
-		<title lang="zh">生活零距离</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126220500 +0800" stop="20260126225500 +0800">
-		<title lang="zh">生活剧场</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126225500 +0800" stop="20260126233000 +0800">
-		<title lang="zh">闽都金秋(重)</title>
-	</programme>
-	<programme channel="FZTV3" start="20260126233000 +0800" stop="20260126235900 +0800">
-		<title lang="zh">攀讲(重)</title>
-	</programme>
 	<channel id="FZTV1">
 		<display-name lang="zh">FZTV1</display-name>
 	</channel>
@@ -72761,5 +72701,65 @@
 	</programme>
 	<programme channel="生态环境" start="20260126235900 +0800" stop="20260126235900 +0800">
 		<title lang="zh">节目结束</title>
+	</programme>
+	<channel id="FZTV3">
+		<display-name lang="zh">FZTV3</display-name>
+	</channel>
+	<programme channel="FZTV3" start="20260126002000 +0800" stop="20260126070000 +0800">
+		<title lang="zh">生活零距离(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126070000 +0800" stop="20260126084000 +0800">
+		<title lang="zh">生活剧场(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126084000 +0800" stop="20260126092000 +0800">
+		<title lang="zh">生活零距离(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126092000 +0800" stop="20260126101300 +0800">
+		<title lang="zh">攀讲(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126101300 +0800" stop="20260126110000 +0800">
+		<title lang="zh">闽都金秋(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126110000 +0800" stop="20260126125000 +0800">
+		<title lang="zh">生活剧场(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126125000 +0800" stop="20260126134000 +0800">
+		<title lang="zh">生活零距离(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126134000 +0800" stop="20260126144000 +0800">
+		<title lang="zh">攀讲(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126144000 +0800" stop="20260126153000 +0800">
+		<title lang="zh">闽都金秋(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126153000 +0800" stop="20260126172000 +0800">
+		<title lang="zh">生活剧场(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126172000 +0800" stop="20260126183000 +0800">
+		<title lang="zh">攀讲(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126183000 +0800" stop="20260126191000 +0800">
+		<title lang="zh">闽都金秋</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126191000 +0800" stop="20260126200500 +0800">
+		<title lang="zh">攀讲</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126200500 +0800" stop="20260126203000 +0800">
+		<title lang="zh">梅卿快车道</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126203000 +0800" stop="20260126212000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126212000 +0800" stop="20260126220500 +0800">
+		<title lang="zh">生活零距离</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126220500 +0800" stop="20260126225500 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126225500 +0800" stop="20260126233000 +0800">
+		<title lang="zh">闽都金秋(重)</title>
+	</programme>
+	<programme channel="FZTV3" start="20260126233000 +0800" stop="20260126235900 +0800">
+		<title lang="zh">攀讲(重)</title>
 	</programme>
 </tv>
