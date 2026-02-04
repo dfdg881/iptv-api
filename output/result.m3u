@@ -207,8 +207,6 @@ http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227153/index.m3u8?servicetyp
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227180/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/福建电视剧.png" group-title="福建",福建电视剧
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227079/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/福建少儿.png" group-title="福建",福建少儿
-http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227194/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/福建旅游.png" group-title="福建",福建旅游
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/福建经济.png" group-title="福建",福建经济
