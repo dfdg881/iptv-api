@@ -135,20 +135,30 @@ http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225850/1.m3u8?servicetype=1
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221225841/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227254/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtsp://112.50.233.148/PLTV/88888888/224/3221227403/146210417.smil
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227099/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/山西卫视.png" group-title="卫视频道",山西卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227258/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/山西卫视.png" group-title="卫视频道",山西卫视
+rtsp://112.50.233.148/PLTV/88888888/224/3221227416/96311815.smil
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227262/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227244/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227248/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtsp://112.50.233.148/PLTV/88888888/224/3221227493/143556096.smil
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227168/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtsp://112.50.233.148/PLTV/88888888/224/3221227399/143556017.smil
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227217/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtsp://112.50.233.148/PLTV/88888888/224/3221227395/143556075.smil
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227172/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/康巴卫视.png" group-title="卫视频道",康巴卫视
@@ -191,8 +201,6 @@ http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226940/1.m3u8?servicetype=1
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227490/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/生态环境.png" group-title="数字频道",生态环境
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227494/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/先锋乒羽.png" group-title="数字频道",先锋乒羽
-http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226851/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/茶频道.png" group-title="数字频道",茶频道
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226859/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/纪实科教.png" group-title="数字频道",纪实科教
