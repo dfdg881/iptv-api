@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://wget.la/https://raw.githubusercontent.com/dfdg881/myEPG/refs/heads/master/output/epg.xml"catchup="append" catchup-source="&playseek=${utc:yyyyMMddHHmmss}-${utcend:yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://wget.la/https://raw.githubusercontent.com/dfdg881/myEPG/refs/heads/master/output/epg.xml"catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/CCTV1.png" group-title="🕘️更新时间",2026-02-03 19:05:43
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226908/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://wget.la/https://raw.githubusercontent.com/mytv-android/myTVlogo/main/img/CCTV1.png" group-title="央视频道",CCTV-1
